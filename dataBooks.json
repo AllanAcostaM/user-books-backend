@@ -27,6 +27,13 @@
       "autor": "Alber Camus",
       "genero": "Novela",
       "disponibilidad": false
+    },
+    {
+      "id": "ROUUqTI",
+      "titulo": "Los aliens de andromeda",
+      "autor": "josepsiño",
+      "genero": "Ficcion",
+      "disponibilidad": true
     }
   ]
 }
