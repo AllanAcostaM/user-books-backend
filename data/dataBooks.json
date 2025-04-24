@@ -1,0 +1,32 @@
+{
+  "books": [
+    {
+      "id": "i342",
+      "titulo": "La sombra del pasado",
+      "autor": "Andrés Martínez",
+      "genero": "Misterio",
+      "disponibilidad": false
+    },
+    {
+      "id": "eef3",
+      "titulo": "El último aliento",
+      "autor": "Sofía Navarro",
+      "genero": "Terror",
+      "disponibilidad": true
+    },
+    {
+      "id": "dc23",
+      "titulo": "Cielos de esperanza",
+      "autor": "Diego Morales",
+      "genero": "Inspirador",
+      "disponibilidad": true
+    },
+    {
+      "id": "96eb",
+      "titulo": "La muerte feliz",
+      "autor": "Alber Camus",
+      "genero": "Novela",
+      "disponibilidad": false
+    }
+  ]
+}
